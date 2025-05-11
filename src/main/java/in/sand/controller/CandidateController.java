@@ -1,5 +1,5 @@
 package in.sand.controller;
-//This is an candidate controller
+
 import java.util.List;
 
 import org.springframework.http.HttpStatus;
